@@ -1,3 +1,3 @@
 # Repository pengumpulan tugas 
-# Pengantar Teknik Komputer
-# ITS-NU Kalimantan
+Pengantar Teknik Komputer
+ITS-NU Kalimantan
